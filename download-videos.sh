@@ -5,6 +5,18 @@ cd "GopherCon"
 md "2018"
 cd "2018"
 youtube-dl https://www.youtube.com/watch?v=zPd0Cxzsslk&list=PL2ntRZ1ySWBdatAqf-2_125H4sGzaWngM
+cd ..
+md "2017"
+cd "2017"
+youtube-dl https://www.youtube.com/watch?v=ha8gdZ27wMo&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9
+cd ..
+md "2016"
+cd "2016"
+youtube-dl https://www.youtube.com/watch?v=KINIAgRpkDA&list=PL2ntRZ1ySWBdliXelGAItjzTMxy2WQh0P
+cd ..
+md "2015"
+cd "2015"
+youtube-dl https://www.youtube.com/watch?v=3EW1hZ8DVyw&list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm
 md "London Gophers"
 cd "London Gophers"
 md "August 2018"
@@ -22,19 +34,20 @@ youtube-dl https://www.youtube.com/watch?v=JqnqDeRZxas&list=PL8QGElREVyDDimqKDND
 youtube-dl https://www.youtube.com/watch?v=BBiIr19JOo4&list=PL8QGElREVyDCMDKnpmkvPzyE2DJRaRISj
 #January 2018
 youtube-dl https://www.youtube.com/watch?v=JqnqDeRZxas&list=PL8QGElREVyDDimqKDNDRpB9MPTq_dPIc5
-#GopherCon UK
-#2018
+md "GopherCon UK"
+cd "GopherCon UK"
+md "2018"
+cd "2018"
 youtube-dl https://www.youtube.com/watch?v=2mgKDqD5Ga8&list=PLDWZ5uzn69ewsMyuGjVsAnpQIjyud1Cv9
-#2017
+cd ..
+md "2017"
+cd "2017"
 youtube-dl https://www.youtube.com/watch?v=5UG57xQL_RE&list=PLDWZ5uzn69eyM81omhIZLzvRhTOXvpeX9
-#2016
+cd ..
+md "2016"
+cd "2016"
 youtube-dl https://www.youtube.com/watch?v=LpWEDFT3iLU&list=PLDWZ5uzn69eyh791ZTkEA9OaTxVpGY8_g
-#2015
+cd ..
+md "2015"
+cd "2015"
 youtube-dl https://www.youtube.com/watch?v=CdhucJShJU8&list=PLDWZ5uzn69ezRJYeWxYNRMYebvf8DerHd
-#GopherCon
-#2017
-youtube-dl https://www.youtube.com/watch?v=ha8gdZ27wMo&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9
-#2016
-youtube-dl https://www.youtube.com/watch?v=KINIAgRpkDA&list=PL2ntRZ1ySWBdliXelGAItjzTMxy2WQh0P
-#2015
-youtube-dl https://www.youtube.com/watch?v=3EW1hZ8DVyw&list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm
