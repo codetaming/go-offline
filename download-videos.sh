@@ -51,3 +51,13 @@ cd ..
 md "2015"
 cd "2015"
 youtube-dl https://www.youtube.com/watch?v=CdhucJShJU8&list=PLDWZ5uzn69ezRJYeWxYNRMYebvf8DerHd
+cd ../..
+mkdir "Learn to Code"
+cd "Learn to Code"
+mkdir "Golang 2019"
+cd "Golang 2019"
+youtube-dl https://www.youtube.com/playlist?list=PLSak_q1UXfPqKzZiiNcE5sFIXD7QrTyig
+cd ..
+mkdir "Golang Web Course"
+cd "Golang Web Course"
+youtube-dl https://www.youtube.com/watch?v=uMhpCDZAebE&list=PLSak_q1UXfPrba68q2afhFq4aBAPVSDbj"
