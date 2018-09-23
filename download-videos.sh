@@ -76,6 +76,7 @@ mkdir "Other"
 cd "Other"
 youtube-dl https://www.youtube.com/watch?v=5gJFQnEl5ZQ
 youtube-dl https://www.youtube.com/watch?v=dVnMLtdJzn4
+youtube-dl https://www.youtube.com/watch?v=kIKwPNKXaLU
 cd ..
 mkdir -p  "GopherCon Russia"
 cd "GopherCon Russia"
