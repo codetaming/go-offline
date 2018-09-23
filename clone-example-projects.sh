@@ -10,3 +10,4 @@ git clone git@github.com:gogs/gogs.git
 git clone git@github.com:b3ntly/twelvefactor_databases.git
 git clone git@github.com:jmoiron/sqlx.git
 git clone git@github.com:hybridgroup/gocv.git
+git clone git@github.com:golang/talks.git
