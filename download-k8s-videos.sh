@@ -11,3 +11,10 @@ cd ..
 mkdir -p "Setting Sail with Istio"
 cd "Setting Sail with Istio"
 youtube-dl https://www.youtube.com/playlist?list=PLbj_Bz58yLCw09JYfG2xbFMi5-jN89LfB
+cd ..
+mkdir -p "Other"
+cd "Other"
+youtube-dl https://www.youtube.com/watch?v=gauOI0O9fRM
+youtube-dl https://www.youtube.com/watch?v=wCJrdKdD6UM
+youtube-dl https://www.youtube.com/watch?v=6BYq6hNhceI
+youtube-dl https://www.youtube.com/watch?v=pGKwluckJ
