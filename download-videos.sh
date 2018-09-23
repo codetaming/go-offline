@@ -74,4 +74,11 @@ youtube-dl https://www.youtube.com/watch?v=uMhpCDZAebE&list=PLSak_q1UXfPrba68q2a
 cd ../..
 mkdir "Other"
 cd "Other"
-youtube-dl  https://www.youtube.com/watch?v=5gJFQnEl5ZQ&t=3s
+youtube-dl https://www.youtube.com/watch?v=5gJFQnEl5ZQ
+youtube-dl https://www.youtube.com/watch?v=dVnMLtdJzn4
+cd ..
+mkdir -p  "GopherCon Russia"
+cd "GopherCon Russia"
+mkdir -p  "2018"
+cd "2018"
+youtube-dl https://www.youtube.com/watch?v=ZCB-g2B4Y5A&list=PLJTW0ZQ22rrH8rWZBs7qMonKZxW4osXE2
