@@ -19,3 +19,5 @@ youtube-dl https://www.youtube.com/watch?v=wCJrdKdD6UM
 youtube-dl https://www.youtube.com/watch?v=6BYq6hNhceI
 youtube-dl https://www.youtube.com/watch?v=pGKwluckJ
 youtube-dl https://www.youtube.com/watch?v=iy29zElB4dc
+youtube-dl https://www.youtube.com/watch?v=j9h66mchXi0
+youtube-dl https://www.youtube.com/watch?v=osQmFNm0YDU

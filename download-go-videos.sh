@@ -83,3 +83,9 @@ cd "GopherCon Russia"
 mkdir -p  "2018"
 cd "2018"
 youtube-dl https://www.youtube.com/watch?v=ZCB-g2B4Y5A&list=PLJTW0ZQ22rrH8rWZBs7qMonKZxW4osXE2
+cd ..
+mkdir -p "Just for Func"
+cd "Just for Func"
+youtube-dl https://www.youtube.com/watch?v=ijoM44hksmY&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+mkdir -p "Live"
+youtube-dl https://www.youtube.com/watch?v=skJitN1vZG0&list=PL64wiCrrxh4KAal63TpN0eiPvCTNBRHi6
