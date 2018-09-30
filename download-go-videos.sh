@@ -88,4 +88,5 @@ mkdir -p "Just for Func"
 cd "Just for Func"
 youtube-dl https://www.youtube.com/watch?v=ijoM44hksmY&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
 mkdir -p "Live"
+cd "Live"
 youtube-dl https://www.youtube.com/watch?v=skJitN1vZG0&list=PL64wiCrrxh4KAal63TpN0eiPvCTNBRHi6

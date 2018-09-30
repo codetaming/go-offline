@@ -7,3 +7,7 @@ cd ..
 mkdir -p "blog.alexellis.io"
 cd "blog.alexellis.io"
 httrack "https://blog.alexellis.io/tag/raspberry-pi" +* -r2
+cd ..
+mkdir -p "leetcode.com"
+cd "leetcode.com"
+httrack "https://leetcode.com/problemset/all/" +* -r2

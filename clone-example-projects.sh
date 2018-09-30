@@ -12,3 +12,5 @@ git clone git@github.com:jmoiron/sqlx.git
 git clone git@github.com:hybridgroup/gocv.git
 git clone git@github.com:golang/talks.git
 git clone git@github.com:stevenaldinger/k8s-gogs.git
+git clone git@github.com:grpc/grpc-go.git
+git clone git@github.com:hybridgroup/gobot.git
