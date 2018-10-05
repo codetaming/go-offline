@@ -86,7 +86,7 @@ youtube-dl https://www.youtube.com/watch?v=ZCB-g2B4Y5A&list=PLJTW0ZQ22rrH8rWZBs7
 cd ..
 mkdir -p "Just for Func"
 cd "Just for Func"
-youtube-dl https://www.youtube.com/watch?v=ijoM44hksmY&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+youtube-dl https://www.youtube.com/watch?v=ijoM44hksmY&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ -f "bestvideo[height<=?720][fps<=?30][vcodec!=?vp9]+bestaudio/best"
 mkdir -p "Live"
 cd "Live"
-youtube-dl https://www.youtube.com/watch?v=skJitN1vZG0&list=PL64wiCrrxh4KAal63TpN0eiPvCTNBRHi6
+youtube-dl https://www.youtube.com/watch?v=skJitN1vZG0&list=PL64wiCrrxh4KAal63TpN0eiPvCTNBRHi6 -f "bestvideo[height<=?720][fps<=?30][vcodec!=?vp9]+bestaudio/best"

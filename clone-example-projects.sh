@@ -14,3 +14,7 @@ git clone git@github.com:golang/talks.git
 git clone git@github.com:stevenaldinger/k8s-gogs.git
 git clone git@github.com:grpc/grpc-go.git
 git clone git@github.com:hybridgroup/gobot.git
+git clone git@github.com:k0kubun/tetris.git
+git clone git@github.com:campoy/justforfunc.git
+git clone git@github.com:veandco/go-sdl2.git
+git clone git@github.com:nsf/termbox-go.git
