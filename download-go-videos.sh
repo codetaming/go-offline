@@ -20,6 +20,9 @@ youtube-dl https://www.youtube.com/watch?v=3EW1hZ8DVyw&list=PL2ntRZ1ySWBf-_z-gHC
 cd ../..
 mkdir -p  "London Gophers"
 cd "London Gophers"
+mkdir -p  "October 2018"
+cd "October 2018"
+youtube-dl https://www.youtube.com/playlist?list=PL8QGElREVyDB8czXcX8eKNMMRmi6fdUrR&pbj -f "bestvideo[height<=?720][fps<=?30][vcodec!=?vp9]+bestaudio/best"
 mkdir -p  "August 2018"
 cd "August 2018"
 youtube-dl https://www.youtube.com/watch?v=7cEp98y6WCs&list=PL8QGElREVyDA2iDrPNeCe8B1u7li5S6ep
